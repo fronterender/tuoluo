@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/desc/desc",
+    "pages/out/out"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "陀螺世界介绍",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "assets/imgs/home.png",
+        "selectedIconPath": "assets/imgs/home_active.png"
+      },
+      {
+        "pagePath": "pages/desc/desc",
+        "text": "收益",
+        "iconPath": "assets/imgs/book.png",
+        "selectedIconPath": "assets/imgs/book_active.png"
+      }
+    ]
+  }
+}

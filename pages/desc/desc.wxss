@@ -1,0 +1,11 @@
+/* pages/desc/desc.wxss */
+.container{
+  padding: 0
+}
+.title{
+  font-weight: 600;
+  padding: 15px;
+}
+.reg{
+  margin-top:35px; 
+}

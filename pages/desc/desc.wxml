@@ -1,0 +1,14 @@
+<!--pages/desc/desc.wxml-->
+<view class="container">
+  <text class="title">收益说明</text>
+  <text>算力：0.2元/个</text>
+  <text>红包龙: 5-50元/个</text>
+  <text>情侣龙：52元/个</text>
+  <text>分红龙：150-200元/天</text>
+  <text style="color:#0be">以上权益，免费获得，无需充值</text>
+
+  <text>
+    陀螺世界app是一款游戏养成类赚钱平台，零投资.游戏养成类赚钱平台，注册送恐龙蛋.算力及现金红包,红包满0.3元秒提，算力可产出虚拟币，可兑换商品,恐龙蛋可合成升级成分红龙，每天享大额现金分红
+  </text>
+</view>
+<button class="reg"  bindtap="registerHandler">立即注册</button>

@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <image class="haibao" src="/assets/imgs/a.jpg"></image>
+</view>
